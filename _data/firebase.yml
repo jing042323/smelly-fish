@@ -1,6 +1,7 @@
-apiKey:            "jing042323"
-authDomain:        "https://jing042323.github.io/smelly-fish/"
-databaseURL:       "https://jing042323.github.io/smelly-fish/"
-projectId:         "smelly-fish"
-storageBucket:     "https://jing042323.github.io/smelly-fish/"
-messagingSenderId: "123"
+apiKey: "AIzaSyBmHPI-C-1aSve02yeLu8ro_9yGJcnIpsQ",
+authDomain: "smelly-fish-75c4a.firebaseapp.com",
+projectId: "smelly-fish-75c4a",
+storageBucket: "smelly-fish-75c4a.appspot.com",
+messagingSenderId: "203063788125",
+appId: "1:203063788125:web:0406c1a4880ba15450c3b4",
+measurementId: "G-NQGTC9S210"
